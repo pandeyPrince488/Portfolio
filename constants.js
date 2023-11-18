@@ -43,7 +43,7 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Full Developer",
+  "A pragmatic Full Stack Developer",
   "A passionate Java Developer ",
   "I create aesthetic and modern apps",
 ];
