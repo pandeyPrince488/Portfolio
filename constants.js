@@ -114,7 +114,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
     gradient: ["#F14658", "#DC2537"],
-    url: "airbnb-web-clone.vercel.app",
+    url: "https://airbnb-web-clone.vercel.app/",
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   {
